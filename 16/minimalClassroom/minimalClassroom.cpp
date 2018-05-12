@@ -25,9 +25,10 @@
 using namespace std;
 
 struct activity {
-	int number;
+	int Number;
 	int startTime;
 	int endTime;
+	int classroomNumer;
 
 };
 class minEndTime {
@@ -46,15 +47,34 @@ int greedy(vector<activity>& vec) {
 	if(vec.empty()) return 0;
 	// create a minHeap
 	priority_queue<activity, vector<activity>, minEndTime> pq;
+	vector<vector<activity>> classroom(vec.size() + 1, {});
+	int classroomNumber = 1;
+	vec[0].classroomNumer = classroomNumber;
 	pq.push(vec[0]);
 	//  the activity has been sorted by the start time
 	int n = vec.size();
 	for(int i = 1; i < n; i++) {
 		if(vec[i].startTime >= pq.top().endTime) {
+			vec[i].classroomNumer = pq.top().classroomNumer;
+			classroom[pq.top().classroomNumer].push_back(vec[i]);
 			pq.pop();
 			pq.push(vec[i]);
 		} else {
+			vec[i].classroomNumer = ++classroomNumber;
+			classroom[vec[i].classroomNumer].push_back(vec[i]);
 			pq.push(vec[i]);
+		}
+	}
+	// print the class room arrangement
+	int num = 1;
+	cout << "classroom arrangement " << endl;
+	for(auto i : classroom) {
+		if(!i.empty()) {
+			cout<< "class room " << num++ << ": ";
+			for (auto j : i) {
+				cout <<endl << '\t' << j.Number << '\t' << j.startTime << '\t' << j.endTime << '\t' << j.classroomNumer;
+			}
+			cout << endl;
 		}
 	}
 	return pq.size();
@@ -63,5 +83,5 @@ int greedy(vector<activity>& vec) {
 int main() {
 	vector<activity> vec{{1, 1, 4}, {2, 3, 5}, {3, 0, 6}, {4, 5, 7}, {5, 3, 8}, {6, 5, 9}, {7, 6, 10}, {8, 8, 11}, {9, 8, 12}, {10, 2, 13}, {11, 12, 14}};
 	auto result = greedy(vec);
-	cout << result;
+	cout << "minimal classroom = " << result << endl;
 }
