@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/coolsnowy/CLionProjects/test/src/main.cpp" "/Users/coolsnowy/CLionProjects/test/cmake-build-debug/CMakeFiles/test.dir/src/main.cpp.o"
-  "/Users/coolsnowy/CLionProjects/test/src/maxHeap.cpp" "/Users/coolsnowy/CLionProjects/test/cmake-build-debug/CMakeFiles/test.dir/src/maxHeap.cpp.o"
+  "/Users/coolsnowy/Documents/study/CLRS/6/heapSort_and_priorityQueue/test/src/main.cpp" "/Users/coolsnowy/Documents/study/CLRS/6/heapSort_and_priorityQueue/test/cmake-build-debug/CMakeFiles/test.dir/src/main.cpp.o"
+  "/Users/coolsnowy/Documents/study/CLRS/6/heapSort_and_priorityQueue/test/src/maxHeap.cpp" "/Users/coolsnowy/Documents/study/CLRS/6/heapSort_and_priorityQueue/test/cmake-build-debug/CMakeFiles/test.dir/src/maxHeap.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 
