@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/DisjointSet.h
+memory
+-
+iostream
+-
+
+../include/Graph.h
+vector
+-
+
+/Users/coolsnowy/CLionProjects/test/src/main.cpp
+DisjointSet.h
+/Users/coolsnowy/CLionProjects/test/src/DisjointSet.h
+Graph.h
+/Users/coolsnowy/CLionProjects/test/src/Graph.h
+
