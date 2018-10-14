@@ -27,16 +27,16 @@ int MaxHeap::left(int i) {
     if(2 * i <= heapSize) {
         return 2 * i;
     } else
-       // cerr << "left index over the heap size" << endl;
-    return 0;
+//        cerr << "left index over the heap size" << endl;
+    return SIZE + 1;
 }
 
 int MaxHeap::right(int i) {
     if(2 * i + 1 <= heapSize) {
         return 2 * i + 1;
     } else
-        //cerr << "right index over the heap size" << endl;
-    return 0;
+//        cerr << "right index over the heap size" << endl;
+    return SIZE + 1;
 }
 
 int MaxHeap::parent(int i) {
@@ -48,20 +48,22 @@ int MaxHeap::parent(int i) {
 }
 
 void MaxHeap::maxHeapify(int i) {
-    while(2 * i <= heapSize) {
-        int largest = i;
-        int leftIndex = left(i);
-        int rightIndex = right(i);
-        int val = std::max(heap[leftIndex], heap[rightIndex]);
-        if(val > heap[i] ) {
-            largest = (val == heap[leftIndex] ? leftIndex : rightIndex);
-            std::swap(heap[i], heap[largest]);
-            i = largest;
-        } else {
-            //nothing to do
-            break;
-        }
-    }
+	int max = i;
+	int leftIndex = left(i);
+	int rightIndex = right(i);
+
+	if(leftIndex <= heapSize && heap[leftIndex] >  heap[i]) {
+		max = leftIndex;
+	} else {
+		max = i;
+	}
+	if(rightIndex <= heapSize && heap[rightIndex] > heap[max]) {
+		max = rightIndex;
+	}
+	if(max != i ) {
+		std::swap(heap[i], heap[max]);
+		maxHeapify(max);
+	}
 }
 
 void MaxHeap::buildMaxHeap() {
@@ -88,8 +90,8 @@ void MaxHeap::heapSort()  {
     // the following procedure will change the value of the heapsize
     // save it before process
     int saveHeapSize = heapSize;
-    for(int i = heapSize; i >= 1; i--) {
-        std::swap(heap[1], heap[heapSize]);
+    for(int i = heapSize; i >= 2; i--) {
+        std::swap(heap[1], heap[i]);
         heapSize--;
         maxHeapify(1);
     }

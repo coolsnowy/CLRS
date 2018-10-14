@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/maxHeap.h
+iostream
+-
+string
+-
+vector
+-
+cmath
+-
+
+/Users/coolsnowy/Documents/study/CLRS/6/heapSort_and_priorityQueue/test/src/maxHeap.cpp
+maxHeap.h
+/Users/coolsnowy/Documents/study/CLRS/6/heapSort_and_priorityQueue/test/src/maxHeap.h
+
