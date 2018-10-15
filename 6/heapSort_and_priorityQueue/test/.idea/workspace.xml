@@ -29,6 +29,7 @@
     <session id="80108354">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -67,8 +68,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/maxHeap.cpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="479">
-                  <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+                <state relative-caret-position="441">
+                  <caret line="51" column="28" lean-forward="true" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
                 </state>
               </provider>
             </entry>
@@ -236,12 +237,12 @@
       <workItem from="1523608592848" duration="423000" />
       <workItem from="1523609879906" duration="2087000" />
       <workItem from="1523612059793" duration="3000" />
-      <workItem from="1539524867100" duration="281000" />
+      <workItem from="1539524867100" duration="485000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2794000" />
+    <option name="totallyTimeSpent" value="2998000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -253,7 +254,7 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26642773" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26642773" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45314506" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -316,8 +317,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/maxHeap.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="441">
+          <caret line="51" column="28" lean-forward="true" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
         </state>
       </provider>
     </entry>

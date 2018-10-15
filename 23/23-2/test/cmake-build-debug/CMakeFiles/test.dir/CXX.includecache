@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/FibonacciHeap.h
+iostream
+-
+cmath
+-
+vector
+-
+
+/Users/coolsnowy/CLionProjects/test/src/main.cpp
+iostream
+-
+algorithm
+-
+fstream
+-
+vector
+-
+queue
+-
+map
+-
+FibonacciHeap.h
+/Users/coolsnowy/CLionProjects/test/src/FibonacciHeap.h
+

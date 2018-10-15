@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="test" targetName="test" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6eaddfd6-a788-4013-9a02-b05d5cd66a49" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="1896743800">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="51" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="11" />
+          <entry key="project.open.time.10" value="4" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="7" />
+          <entry key="project.open.time.8" value="12" />
+          <entry key="project.open.time.9" value="6" />
+          <entry key="project.opened" value="52" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="__config" value="1" />
+          <entry key="algorithm" value="1" />
+          <entry key="cbp" value="1" />
+          <entry key="cmake" value="1" />
+          <entry key="cpp" value="28" />
+          <entry key="h" value="117" />
+          <entry key="iterator" value="1" />
+          <entry key="map" value="1" />
+          <entry key="memory" value="3" />
+          <entry key="string" value="2" />
+          <entry key="txt" value="8" />
+          <entry key="utility" value="1" />
+          <entry key="vector" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="9" />
+          <entry key="ObjectiveC" value="157" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="14022" />
+          <entry key="h" value="12994" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="1" />
+          <entry key="ObjectiveC" value="27016" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/sys/_types/_size_t.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/i386/_types.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/FibonacciHeap.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="300" selection-start-line="300" selection-end-line="325" selection-end-column="3" />
+              <folding>
+                <element signature="e#120#138#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>std::swap</find>
+      <find>vector</find>
+      <find>2</find>
+      <find>e</find>
+      <find>m</find>
+      <find>ctime</find>
+      <find>time</find>
+      <find>main</find>
+      <find>reg</find>
+      <find>N</find>
+      <find>M</find>
+      <find>double</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>EXCHANGE</replace>
+      <replace>std::vector</replace>
+      <replace>a</replace>
+      <replace>long double</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/include/ConcreteComponent.h" />
+        <option value="$PROJECT_DIR$/include/Decorator.h" />
+        <option value="$PROJECT_DIR$/include/ConcreteDecorator.h" />
+        <option value="$PROJECT_DIR$/include/Composite.h" />
+        <option value="$PROJECT_DIR$/include/Leaf.h" />
+        <option value="$PROJECT_DIR$/include/Component.h" />
+        <option value="$PROJECT_DIR$/include/Facade.h" />
+        <option value="$PROJECT_DIR$/include/SubSystem.h" />
+        <option value="$PROJECT_DIR$/include/Flyweight.h" />
+        <option value="$PROJECT_DIR$/include/FlyweightFactory.h" />
+        <option value="$PROJECT_DIR$/include/ConcreteFlyweight.h" />
+        <option value="$PROJECT_DIR$/include/RealSubject.h" />
+        <option value="$PROJECT_DIR$/include/Proxy.h" />
+        <option value="$PROJECT_DIR$/include/AbstractClass.h" />
+        <option value="$PROJECT_DIR$/include/ConcreteClass.h" />
+        <option value="$PROJECT_DIR$/include/Receiver.h" />
+        <option value="$PROJECT_DIR$/include/Invoker.h" />
+        <option value="$PROJECT_DIR$/include/Command.h" />
+        <option value="$PROJECT_DIR$/include/Observer.h" />
+        <option value="$PROJECT_DIR$/include/Subject.h" />
+        <option value="$PROJECT_DIR$/include/ConcreteObserver.h" />
+        <option value="$PROJECT_DIR$/include/ConcreteSubject.h" />
+        <option value="$PROJECT_DIR$/include/Mediator.h" />
+        <option value="$PROJECT_DIR$/include/ConcreteMediator.h" />
+        <option value="$PROJECT_DIR$/include/ConcreteColleague.h" />
+        <option value="$PROJECT_DIR$/include/Colleague.h" />
+        <option value="$PROJECT_DIR$/include/Oringinator.h" />
+        <option value="$PROJECT_DIR$/include/Menento.h" />
+        <option value="$PROJECT_DIR$/include/Caretaker.h" />
+        <option value="$PROJECT_DIR$/include/Memento.h" />
+        <option value="$PROJECT_DIR$/include/Originator.h" />
+        <option value="$PROJECT_DIR$/include/State.h" />
+        <option value="$PROJECT_DIR$/include/ConcreteState.h" />
+        <option value="$PROJECT_DIR$/src/ConcreteState.cpp" />
+        <option value="$PROJECT_DIR$/include/Strategy.h" />
+        <option value="$PROJECT_DIR$/include/ConcreteStrategy.h" />
+        <option value="$PROJECT_DIR$/include/Context.h" />
+        <option value="$PROJECT_DIR$/include/Handler.h" />
+        <option value="$PROJECT_DIR$/include/ConcreteHandler.h" />
+        <option value="$PROJECT_DIR$/include/Visitor.h" />
+        <option value="$PROJECT_DIR$/include/ConcreteVisitor.h" />
+        <option value="$PROJECT_DIR$/include/Element.h" />
+        <option value="$PROJECT_DIR$/include/ConcreteElement.h" />
+        <option value="$PROJECT_DIR$/include/ObjectStructure.h" />
+        <option value="$PROJECT_DIR$/include/Edge.h" />
+        <option value="$PROJECT_DIR$/include/DisjointSet.h" />
+        <option value="$PROJECT_DIR$/include/MinHeap.h" />
+        <option value="$PROJECT_DIR$/src/MinHeap.cpp" />
+        <option value="$PROJECT_DIR$/include/Graph.h" />
+        <option value="$PROJECT_DIR$/include/FibonacciHeap.h" />
+        <option value="$PROJECT_DIR$/src/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="dge&#9;null&#9;null&#10;sigser&#9;FILE&#9;file:///usr/local/include/boost/asio/detail/signal_set_service.hpp" />
+    <property name="ToolWindowCMake.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.C/C++" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../include" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="test" RUN_TARGET_NAME="test" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="test" TARGET_NAME="test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="test" RUN_TARGET_NAME="test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.test" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6eaddfd6-a788-4013-9a02-b05d5cd66a49" name="Default" comment="" />
+      <created>1523608590368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523608590368</updated>
+      <workItem from="1523608592848" duration="423000" />
+      <workItem from="1523609879906" duration="2087000" />
+      <workItem from="1523612059793" duration="64000" />
+      <workItem from="1523845162537" duration="5510000" />
+      <workItem from="1523864432908" duration="1778000" />
+      <workItem from="1523965863525" duration="12235000" />
+      <workItem from="1524184410196" duration="7000" />
+      <workItem from="1524279126360" duration="4352000" />
+      <workItem from="1524791808322" duration="3871000" />
+      <workItem from="1524811271879" duration="9000" />
+      <workItem from="1524882120772" duration="9271000" />
+      <workItem from="1524974019272" duration="2270000" />
+      <workItem from="1525055106299" duration="881000" />
+      <workItem from="1525231334945" duration="977000" />
+      <workItem from="1525232943804" duration="2155000" />
+      <workItem from="1525314895140" duration="1106000" />
+      <workItem from="1525332985533" duration="5529000" />
+      <workItem from="1525394970046" duration="7267000" />
+      <workItem from="1525525697055" duration="5462000" />
+      <workItem from="1525572247616" duration="4874000" />
+      <workItem from="1525583813505" duration="304000" />
+      <workItem from="1525584129401" duration="3864000" />
+      <workItem from="1525590903388" duration="298000" />
+      <workItem from="1525591213409" duration="114000" />
+      <workItem from="1525591443109" duration="565000" />
+      <workItem from="1525592026536" duration="142000" />
+      <workItem from="1525592250143" duration="121000" />
+      <workItem from="1525592422370" duration="123000" />
+      <workItem from="1525592568463" duration="209000" />
+      <workItem from="1525592813469" duration="371000" />
+      <workItem from="1525593198708" duration="76000" />
+      <workItem from="1525593309138" duration="404000" />
+      <workItem from="1525593725277" duration="287000" />
+      <workItem from="1525594108990" duration="469000" />
+      <workItem from="1525594696810" duration="825000" />
+      <workItem from="1525614993374" duration="57000" />
+      <workItem from="1525656921503" duration="1930000" />
+      <workItem from="1525659216175" duration="16281000" />
+      <workItem from="1525742856253" duration="15301000" />
+      <workItem from="1525862806481" duration="7469000" />
+      <workItem from="1525915185316" duration="14012000" />
+      <workItem from="1526001776838" duration="4760000" />
+      <workItem from="1526017564904" duration="13748000" />
+      <workItem from="1526129552946" duration="3494000" />
+      <workItem from="1526181291413" duration="3210000" />
+      <workItem from="1526260389094" duration="663000" />
+      <workItem from="1526272074644" duration="1539000" />
+      <workItem from="1526275895888" duration="2725000" />
+      <workItem from="1526294301577" duration="8748000" />
+      <workItem from="1526394087418" duration="751000" />
+      <workItem from="1526432109495" duration="3368000" />
+      <workItem from="1526445150034" duration="1862000" />
+      <workItem from="1526524879460" duration="206000" />
+      <workItem from="1526541984349" duration="740000" />
+      <workItem from="1526609802959" duration="36000" />
+      <workItem from="1526702119594" duration="6255000" />
+      <workItem from="1526781868106" duration="543000" />
+      <workItem from="1526869085614" duration="1888000" />
+      <workItem from="1526876021813" duration="544000" />
+      <workItem from="1526968765850" duration="683000" />
+      <workItem from="1526981802754" duration="231000" />
+      <workItem from="1526982306576" duration="32000" />
+      <workItem from="1526998374559" duration="467000" />
+      <workItem from="1527049687027" duration="17000" />
+      <workItem from="1527337702474" duration="461000" />
+      <workItem from="1527338248804" duration="805000" />
+      <workItem from="1527341660267" duration="118000" />
+      <workItem from="1527387314281" duration="689000" />
+      <workItem from="1527474369552" duration="2672000" />
+      <workItem from="1527498479983" duration="1183000" />
+      <workItem from="1527554947153" duration="539000" />
+      <workItem from="1527555987211" duration="20000" />
+      <workItem from="1527556128142" duration="128000" />
+      <workItem from="1527556268004" duration="3519000" />
+      <workItem from="1527560517306" duration="1178000" />
+      <workItem from="1527641256119" duration="16000" />
+      <workItem from="1527687185917" duration="391000" />
+      <workItem from="1527689673022" duration="217000" />
+      <workItem from="1527771049377" duration="470000" />
+      <workItem from="1527828741036" duration="6750000" />
+      <workItem from="1528093515738" duration="1026000" />
+      <workItem from="1528173220284" duration="1189000" />
+      <workItem from="1528175920828" duration="6164000" />
+      <workItem from="1528242980315" duration="306000" />
+      <workItem from="1528278595708" duration="5216000" />
+      <workItem from="1528349331244" duration="583000" />
+      <workItem from="1528421861514" duration="1850000" />
+      <workItem from="1528463720847" duration="3879000" />
+      <workItem from="1528507562865" duration="2294000" />
+      <workItem from="1528510429671" duration="133000" />
+      <workItem from="1528541815028" duration="1420000" />
+      <workItem from="1528543477730" duration="8191000" />
+      <workItem from="1528600732286" duration="6809000" />
+      <workItem from="1528694715199" duration="8070000" />
+      <workItem from="1528776532106" duration="4000" />
+      <workItem from="1528802061811" duration="249000" />
+      <workItem from="1529055477943" duration="1866000" />
+      <workItem from="1529559225202" duration="6000" />
+      <workItem from="1529563202418" duration="2246000" />
+      <workItem from="1529646328427" duration="36000" />
+      <workItem from="1529646382498" duration="1191000" />
+      <workItem from="1529730956932" duration="7268000" />
+      <workItem from="1531117887128" duration="3152000" />
+      <workItem from="1531965553958" duration="33000" />
+      <workItem from="1532937681233" duration="125000" />
+      <workItem from="1533185249313" duration="613000" />
+      <workItem from="1533186152329" duration="594000" />
+      <workItem from="1533187256948" duration="1006000" />
+      <workItem from="1533192278726" duration="5742000" />
+      <workItem from="1533211893137" duration="19000" />
+      <workItem from="1533211920410" duration="352000" />
+      <workItem from="1533212379219" duration="2983000" />
+      <workItem from="1533215417712" duration="21000" />
+      <workItem from="1533215444889" duration="27000" />
+      <workItem from="1533215501354" duration="93000" />
+      <workItem from="1533215635723" duration="4463000" />
+      <workItem from="1533260746151" duration="4873000" />
+      <workItem from="1533433393650" duration="2204000" />
+      <workItem from="1533442459186" duration="3485000" />
+      <workItem from="1533520407649" duration="126000" />
+      <workItem from="1533645208916" duration="13000" />
+      <workItem from="1533645242332" duration="1048000" />
+      <workItem from="1533647908056" duration="2308000" />
+      <workItem from="1533700512175" duration="2670000" />
+      <workItem from="1534149770278" duration="45000" />
+      <workItem from="1534149902076" duration="17000" />
+      <workItem from="1534150139715" duration="13000" />
+      <workItem from="1534150540807" duration="286000" />
+      <workItem from="1534151131621" duration="21000" />
+      <workItem from="1534151201221" duration="6000" />
+      <workItem from="1535342945708" duration="4685000" />
+      <workItem from="1535445922250" duration="217000" />
+      <workItem from="1535540000308" duration="2517000" />
+      <workItem from="1535627008865" duration="2931000" />
+      <workItem from="1535707274186" duration="3443000" />
+      <workItem from="1535768082712" duration="5279000" />
+      <workItem from="1536151865511" duration="1900000" />
+      <workItem from="1536569532265" duration="602000" />
+      <workItem from="1536803681736" duration="908000" />
+      <workItem from="1537102848318" duration="300000" />
+      <workItem from="1537103677990" duration="4359000" />
+      <workItem from="1537109528978" duration="677000" />
+      <workItem from="1537146778653" duration="79000" />
+      <workItem from="1537146896487" duration="6120000" />
+      <workItem from="1537186557888" duration="14160000" />
+      <workItem from="1537426649691" duration="17000" />
+      <workItem from="1537955464814" duration="831000" />
+      <workItem from="1538026010819" duration="33000" />
+      <workItem from="1538923658324" duration="9000" />
+      <workItem from="1539059189724" duration="5000" />
+      <workItem from="1539320849781" duration="2681000" />
+      <workItem from="1539352156325" duration="15000" />
+      <workItem from="1539418033650" duration="557000" />
+      <workItem from="1539423161392" duration="8000" />
+      <workItem from="1539488831548" duration="4577000" />
+      <workItem from="1539502467555" duration="51000" />
+      <workItem from="1539502522523" duration="16674000" />
+      <workItem from="1539570166612" duration="1628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="380613000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49075216" visible="true" weight="0.15416667" />
+      <window_info id="Structure" order="1" sideWeight="0.50924784" side_tool="true" weight="0.17002882" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" show_stripe_button="false" weight="0.329602" />
+      <window_info active="true" anchor="bottom" auto_hide="true" x="10" y="346" width="1419" height="207" id="Run" internal_type="SLIDING" order="2" sideWeight="0.49279538" visible="true" weight="0.3154122" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.3292232" />
+      <window_info anchor="bottom" auto_hide="true" x="10" y="348" width="1419" height="203" id="Messages" order="6" sideWeight="0.4982382" weight="0.3464755" />
+      <window_info anchor="bottom" auto_hide="true" id="CMake" internal_type="SLIDING" order="7" sideWeight="0.49575672" weight="0.28729963" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5072046" side_tool="true" weight="0.3568019" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3292232" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="10" y="300" width="1419" height="300" id="Debug" internal_type="SLIDING" order="3" sideWeight="0.5010571" side_tool="true" type="SLIDING" weight="0.39652777" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49075216" visible="true" weight="0.175" />
+      <window_info id="Structure" order="1" sideWeight="0.50924784" side_tool="true" weight="0.17002882" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" show_stripe_button="false" weight="0.329602" />
+      <window_info anchor="bottom" auto_hide="true" x="10" y="346" width="1419" height="207" id="Run" internal_type="SLIDING" order="2" sideWeight="0.49279538" weight="0.3464755" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.3292232" />
+      <window_info anchor="bottom" auto_hide="true" x="10" y="348" width="1419" height="203" id="Messages" order="6" sideWeight="0.4982382" weight="0.3464755" />
+      <window_info anchor="bottom" auto_hide="true" id="CMake" internal_type="SLIDING" order="7" sideWeight="0.49575672" weight="0.28729963" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5072046" side_tool="true" weight="0.35758322" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3292232" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="10" y="300" width="1419" height="300" id="Debug" internal_type="SLIDING" order="3" sideWeight="0.5010571" side_tool="true" weight="0.39697406" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="890" column="8" selection-start-line="890" selection-start-column="8" selection-end-line="890" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/ConcreteObserver.h" />
+    <entry file="file://$PROJECT_DIR$/include/Observer.h" />
+    <entry file="file://$PROJECT_DIR$/include/Subject.h" />
+    <entry file="file://$PROJECT_DIR$/include/ConcreteSubject.h" />
+    <entry file="file://$PROJECT_DIR$/include/Mediator.h" />
+    <entry file="file://$PROJECT_DIR$/include/ConcreteMediator.h" />
+    <entry file="file://$PROJECT_DIR$/include/Colleague.h" />
+    <entry file="file://$PROJECT_DIR$/include/ConcreteColleague.h" />
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/string">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Originator.h" />
+    <entry file="file://$PROJECT_DIR$/include/Memento.h" />
+    <entry file="file://$PROJECT_DIR$/include/Caretaker.h" />
+    <entry file="file://$PROJECT_DIR$/include/ConcreteState.h" />
+    <entry file="file://$PROJECT_DIR$/include/State.h" />
+    <entry file="file://$PROJECT_DIR$/include/Strategy.h" />
+    <entry file="file://$PROJECT_DIR$/include/Context.h" />
+    <entry file="file://$PROJECT_DIR$/include/ConcreteStrategy.h" />
+    <entry file="file://$PROJECT_DIR$/src/ConcreteState.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/Client.h" />
+    <entry file="file://$PROJECT_DIR$/include/Handler.h" />
+    <entry file="file://$PROJECT_DIR$/include/ConcreteHandler.h" />
+    <entry file="file://$PROJECT_DIR$/include/ConcreteElement.h" />
+    <entry file="file://$PROJECT_DIR$/include/Element.h" />
+    <entry file="file://$PROJECT_DIR$/include/ConcreteVisitor.h" />
+    <entry file="file://$PROJECT_DIR$/include/Visitor.h" />
+    <entry file="file://$PROJECT_DIR$/include/ObjectStructure.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/iterator">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="1539" selection-start-line="1539" selection-end-line="1539" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/wchar.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="118" column="14" selection-start-line="118" selection-start-column="14" selection-end-line="118" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Edge.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/DisjointSet.cpp" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/DisjointSet.h" />
+    <entry file="file://$PROJECT_DIR$/../include/DisjointSet.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/test.cbp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/utility">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="320" column="8" selection-start-line="320" selection-start-column="8" selection-end-line="320" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/DisjointSet.h" />
+    <entry file="file://$USER_HOME$/Documents/study/CLRS/6/heapSort_and_priorityQueue/test/include/maxHeap.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/maxHeap.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/maxHeap.h" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/algorithm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="2653" selection-start-line="2653" selection-end-line="2653" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/vector">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="1224" column="25" selection-start-line="1224" selection-start-column="25" selection-end-line="1224" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/memory">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="4597" selection-start-line="4597" selection-end-line="4597" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Graph.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/MinHeap.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding>
+            <element signature="e#93#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinHeap.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-562">
+          <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/FibonacciHeap.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="300" selection-start-line="300" selection-end-line="325" selection-end-column="3" />
+          <folding>
+            <element signature="e#120#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/i386/_types.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/sys/_types/_size_t.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
